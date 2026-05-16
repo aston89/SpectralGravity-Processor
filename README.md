@@ -151,7 +151,7 @@ Vinyl sources often contain subtle spectral instability caused by:
 - low-end drift
 - cumulative harmonic buildup
 
-Rather than attempting aggressive restoration, SpectralGravity gently stabilizes the overall energy distribution while preserving the original analog character.
+Rather than attempting aggressive restoration, SpectralGravity gently stabilizes the overall energy distribution while **preserving the original analog character.**
 
 This often results in:
 - smoother long-term listening
