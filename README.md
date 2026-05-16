@@ -140,6 +140,25 @@ SpectralGravity performs especially well on:
 
 It is particularly effective when a mix is "almost good" but still feels unstable or tiring.
 
+## Vinyl Rips
+
+SpectralGravity can be particularly effective on vinyl recordings and archival transfers.
+
+Vinyl sources often contain subtle spectral instability caused by:
+- analog resonances
+- transient irregularities
+- granular high-frequency behavior
+- low-end drift
+- cumulative harmonic buildup
+
+Rather than attempting aggressive restoration, SpectralGravity gently stabilizes the overall energy distribution while preserving the original analog character.
+
+This often results in:
+- smoother long-term listening
+- reduced listening fatigue
+- calmer high frequencies
+- improved perceived coherence at higher playback volumes
+
 ---
 
 # Cases Where It Helps Less
