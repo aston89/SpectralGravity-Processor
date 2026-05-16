@@ -208,12 +208,7 @@ Install FFmpeg:
 
 # Usage
 
-```bash
-python spectralgravity_processor.py input.wav output.wav
-```
-
 Example:
-
 ```bash
 python spectralgravity_processor.py mix.wav mix_processed.wav
 ```
