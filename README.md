@@ -242,6 +242,7 @@ It can reduce the need for:
 - repeated multiband adjustments
 - excessive automation of EQ or dynamics
 - chasing transient or spectral inconsistencies manually
+
 Instead of forcing corrective decisions, it provides a controlled baseline of spectral stability, allowing the user to focus more on artistic balance rather than technical correction loops.
 This makes it especially suitable for workflows where decision fatigue becomes a limiting factor, or where small instabilities tend to accumulate across multiple processing stages.
 The processor is intentionally conservative: if it becomes clearly audible as an “effect”, it is likely being used beyond its intended operating range.
